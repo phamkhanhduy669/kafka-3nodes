@@ -1,6 +1,6 @@
 ## Danh sách các node Kafka
 <img width="915" height="122" alt="Screenshot 2025-11-17 121540" src="https://github.com/user-attachments/assets/5283e856-7509-467f-acc3-adf5fec792c6" />
-<img width="910" height="299" alt="Screenshot 2025-11-17 120623" src="https://github.com/user-attachments/assets/07ba9848-7644-44c1-a9f8-5e3f8532fe8e" />
+<img width="899" height="268" alt="image" src="https://github.com/user-attachments/assets/f781cd2d-0c5d-4488-8b7b-bc5aa1bc8793" />
 
 ## Gửi message
 
